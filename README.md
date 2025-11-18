@@ -1,0 +1,2 @@
+# TECHYSPOT-workshop
+all projects
